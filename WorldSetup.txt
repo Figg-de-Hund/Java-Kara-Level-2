@@ -1,0 +1,6 @@
+World: Kara Exercise 01
+X: 9
+Y: 9
+
+
+ @
